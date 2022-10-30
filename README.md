@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xLuisRodriguez19
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Vue 3, TypeScript, etc.
+- 🌱 I’m currently learning Vue 3, TypeScript, Tailwind, etc.
 - 💞️ I’m looking to collaborate on Frontend development
 - 📫 How to reach me @luisskyb19 on Twitter
 
